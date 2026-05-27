@@ -79,7 +79,7 @@ and private classes, functions and etc]
                    '---'                     '---'                     '---'                     '---'                     '---'                     '---'                     '---'                     '---'                     '---'                     '---'                      
                                                                                                                                                                                                                                                                                         
 
-
+<p style="color: pink; font-family: 'JetBrains Mono', monospace;">
 My name is Francisco,                               
 I am a 19 year old CS student                  
 from Curitiba, Paraná, Brasil.                
@@ -107,7 +107,26 @@ are fighting for 1st place too
 i'm kinda of a chud but 
 i like talking about the
 things i enjoy
+</p>
 
-==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==!==
+
+
+
+
+
+
+                      .-'''-.         
+                    '   _    \   
+                  /   /` '.   \  
+ ,.--.           .   |     \  '  
+//    \          |   '      |  ' 
+\\    /          \    \     / /  
+ `'--'            `.   ` ..' /   
+ ,.--.               '-...-'`    
+//    \                          
+\\    /                          
+ `'--'                           
+                                 
+
 
 </pre>
