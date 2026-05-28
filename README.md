@@ -83,30 +83,13 @@ and private classes, functions and etc]
 My name is Francisco,                               
 I am a 19 year old CS student                  
 from Curitiba, Paraná, Brasil.                
-I like working in 
-full-stack developing, 
-web dev and data analysis! 
-I also like cybersecurity and 
-software engineering although
-I am a newbie on both of 'em.
 
-I like black coffee with sugar, 
-coke zero, onion rings, vanilla vodka,
-and my favorite cigarettes are blue Rothmans 
-(although I have a soft spot for Red Dunhills).
+       My interests are: 
+       Data Analysis, Automation (including Data Automation), Software Development, Front-end and Back-end development.
+
+I code mainly in Python due to being the most fitting language for my interest in general Data manipulation, 
+       but expect me to code eventually on JS, PHP and C.
        
-My favorite movie is Videodrome.
-I also really like Lost Highway and Gonin. 
-Matrix is also one that I love
-I often listen to dnb while coding. 
-It's pretty good and keeps me electric.
-       
-My favorite game of all time is Yakuza 0, 
-but funger termina and cyberpunk 2077 
-are fighting for 1st place too
-i'm kinda of a chud but 
-i like talking about the
-things i enjoy
 </p>
 
 
