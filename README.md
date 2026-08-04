@@ -11,25 +11,25 @@
 <h2 style="font-family: 'JetBrains Mono', monospace;">
   > About Me
 </h2>
-
+```
 - 3rd period of CS - PUCPR
 - Fullstack Developer
 - Linux Enjoyer
 - Always learning new things
 - I amm improving LITERALLY EVERY SINGLE DAY. I grind so fucking much my brain bleeds through my ears
 - Bass and guitar player
-
+```
 <h2 style="font-family: 'JetBrains Mono', monospace;">
   > Languages
 </h2>
 
-
+```
 Python (mostly data analysis and automatino of tasks)
 Lua (lightweight scripts and networking scripts)
 Rust (mostly for trying fun things envolving embedded applications)
 C/C++ (messing with low-level computer functions and game development)
 JavaScript/TypeScript (web development and electron)
-
+```
 
 <h2 style="font-family: 'JetBrains Mono', monospace;">
   > Python
