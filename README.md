@@ -1,4 +1,3 @@
-````html
 <h1 align="center" style="font-family: 'JetBrains Mono', monospace;">
   Francisco
 </h1>
@@ -24,19 +23,19 @@
   > Languages
 </h2>
 
-```txt
+
 Python (mostly data analysis and automatino of tasks)
 Lua (lightweight scripts and networking scripts)
 Rust (mostly for trying fun things envolving embedded applications)
 C/C++ (messing with low-level computer functions and game development)
 JavaScript/TypeScript (web development and electron)
-````
+
 
 <h2 style="font-family: 'JetBrains Mono', monospace;">
   > Python
 </h2>
 
-```txt
+```
 FastAPI
 Pandas
 NumPy
@@ -51,7 +50,7 @@ Selenium
   > Web
 </h2>
 
-```txt
+```
 Next.js
 Node.js
 Express.js
@@ -74,15 +73,10 @@ SQLite
   > Tools
 </h2>
 
-```txt
+```
 Git
 GitHub
 Docker
-
 ```
-
-```
-```
-
 
 I WILL NOT STOP UNTIL I AM DEAD I AM A MACHINE
