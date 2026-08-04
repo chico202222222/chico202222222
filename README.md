@@ -1,40 +1,88 @@
-<h2 align="left">
-  💻 Linguagens e Tecnologias
+````html
+<h1 align="center" style="font-family: 'JetBrains Mono', monospace;">
+  Francisco
+</h1>
+
+<p align="center" style="font-family: 'JetBrains Mono', monospace;">
+  20 years old • He/Him • 📍 Curitiba, Brazil
+</p>
+
+<hr>
+
+<h2 style="font-family: 'JetBrains Mono', monospace;">
+  > About Me
 </h2>
 
-### Linguagens
+- 3rd period of CS - PUCPR
+- Fullstack Developer
+- Linux Enjoyer
+- Always learning new things
+- I amm improving LITERALLY EVERY SINGLE DAY. I grind so fucking much my brain bleeds through my ears
+- Bass and guitar player
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,python,c,cpp,rust,js,ts" />
-</p>
+<h2 style="font-family: 'JetBrains Mono', monospace;">
+  > Languages
+</h2>
 
-### Desenvolvimento Web
+```txt
+Python (mostly data analysis and automatino of tasks)
+Lua (lightweight scripts and networking scripts)
+Rust (mostly for trying fun things envolving embedded applications)
+C/C++ (messing with low-level computer functions and game development)
+JavaScript/TypeScript (web development and electron)
+````
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nextjs,nodejs,express,tailwindcss,php" />
-</p>
+<h2 style="font-family: 'JetBrains Mono', monospace;">
+  > Python
+</h2>
 
-### Bancos de Dados
+```txt
+FastAPI
+Pandas
+NumPy
+Matplotlib
+SQLAlchemy
+Requests
+BeautifulSoup4
+Selenium
+```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
-</p>
+<h2 style="font-family: 'JetBrains Mono', monospace;">
+  > Web
+</h2>
 
-### Ferramentas
+```txt
+Next.js
+Node.js
+Express.js
+HTML
+CSS/TailwindCSS
+REST APIs
+```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
-</p>
+<h2 style="font-family: 'JetBrains Mono', monospace;">
+  > Databases
+</h2>
 
-### Sobre minhas habilidades
+```txt
+PostgreSQL
+MySQL
+SQLite
+```
 
-* Desenvolvimento de aplicações frontend e backend.
-* Criação e consumo de APIs REST.
-* Desenvolvimento com JavaScript e TypeScript.
-* Aplicações web modernas utilizando Next.js.
-* Desenvolvimento de servidores utilizando Node.js e Express.
-* Manipulação de bancos de dados SQL e NoSQL.
-* Programação de sistemas utilizando C, C++ e Rust.
-* Automação e criação de scripts utilizando Python e Lua.
-* Versionamento de projetos utilizando Git e GitHub.
-* Experiência com ambientes Linux.
+<h2 style="font-family: 'JetBrains Mono', monospace;">
+  > Tools
+</h2>
+
+```txt
+Git
+GitHub
+Docker
+
+```
+
+```
+```
+
+
+I WILL NOT STOP UNTIL I AM DEAD I AM A MACHINE
