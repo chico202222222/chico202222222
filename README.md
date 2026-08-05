@@ -78,6 +78,8 @@ SQLite
 Git
 GitHub
 Docker
+Linux/Windows troubleshooting
+Bash/Zsh/Shell
 ```
 
 I WILL NOT STOP UNTIL I AM DEAD I AM A MACHINE
