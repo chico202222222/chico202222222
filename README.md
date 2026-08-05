@@ -29,6 +29,7 @@ Lua (lightweight scripts and networking scripts)
 Rust (mostly for trying fun things envolving embedded applications)
 C/C++ (messing with low-level computer functions and game development)
 JavaScript/TypeScript (web development and electron)
+Dart (mobile dev)
 ```
 
 <h2 style="font-family: 'JetBrains Mono', monospace;">
