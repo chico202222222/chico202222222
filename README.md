@@ -24,12 +24,12 @@
 </h2>
 
 ```
-Python (mostly data analysis and automatino of tasks)
+Python (for backend, data analysis, automation and testing)
 Lua (lightweight scripts and networking scripts)
 Rust (mostly for trying fun things envolving embedded applications)
 C/C++ (messing with low-level computer functions and game development)
-JavaScript/TypeScript (web development and electron)
-Dart (mobile dev)
+JavaScript/TypeScript (web development and electron development)
+Dart (mobile dev) (I am a NOOB In dart, dont trust me with it.)
 ```
 
 <h2 style="font-family: 'JetBrains Mono', monospace;">
