@@ -1,10 +1,5 @@
-<h1 align="center" style="font-family: 'JetBrains Mono', monospace; color: #00FF66;">
-  <pre>
- █▀▀ █▀▀█ █▀▀█ ██ █  mini.sys
- █▀▀ █▄▄▀ █▄▄█ █ ██   [francisco@root ~]$ _
- ▀   ▀ ▀▀ ▀  ▀ ▀  ▀
-  </pre>
-</h1>
+
+[francisco@root ~]$ _
 
 <p align="center" style="font-family: 'JetBrains Mono', monospace; color: #00FF66;">
   <b>Francisco</b> • 20 y/o • He/Him • Curitiba, Brazil<br>
@@ -12,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=500&lines=Python+Backend+Architect;Java+Enterprise+Developer;Linux+%26+Low-Level+Enthusiast;Always+Compiling+New+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=500&lines=Python+Backend+Architect;COMPUTER SCIENTIST;Linux+%26+Low-Level+Enthusiast;Always+Compiling+New+Skills" alt="Typing SVG" />
 </p>
 
 ---
