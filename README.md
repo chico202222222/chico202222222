@@ -1,87 +1,31 @@
-<h1 align="center" style="font-family: 'JetBrains Mono', monospace;">
-  Francisco
+<h1 align="center" style="font-family: 'JetBrains Mono', monospace; color: #00FF66;">
+  <pre>
+ █▀▀ █▀▀█ █▀▀█ ██ █  mini.sys
+ █▀▀ █▄▄▀ █▄▄█ █ ██   [francisco@root ~]$ _
+ ▀   ▀ ▀▀ ▀  ▀ ▀  ▀
+  </pre>
 </h1>
 
-<p align="center" style="font-family: 'JetBrains Mono', monospace;">
-  20 years old • He/Him • Curitiba, Brazil
+<p align="center" style="font-family: 'JetBrains Mono', monospace; color: #00FF66;">
+  <b>Francisco</b> • 20 y/o • He/Him • Curitiba, Brazil<br>
+  <code>[STATUS: ACTIVE_GRIND // SYSTEM_UPTIME: 24/7]</code>
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=500&lines=Python+Backend+Architect;Java+Enterprise+Developer;Linux+%26+Low-Level+Enthusiast;Always+Compiling+New+Skills" alt="Typing SVG" />
+</p>
 
-<h2 style="font-family: 'JetBrains Mono', monospace;">
-  > About Me
-</h2>
+---
 
-```java
-- 3rd period of CS - PUCPR
-- Fullstack Developer
-- Linux Enjoyer
-- Always learning new things
-- I amm improving LITERALLY EVERY SINGLE DAY. I grind so fucking much my brain bleeds through my ears
-- Bass and guitar player
-```
+### `01 // SYSTEM_DIAGNOSTICS`
 
-<h2 style="font-family: 'JetBrains Mono', monospace;">
-  > Languages
-</h2>
+```bash
+#!/usr/bin/env bash
 
-```
-Python (for backend, data analysis, automation and testing)
-Lua (lightweight scripts and networking scripts)
-Rust (mostly for trying fun things envolving embedded applications)
-C/C++ (messing with low-level computer functions and game development)
-JavaScript/TypeScript (web development and electron development)
-Dart (mobile dev) (I am a NOOB In dart, dont trust me with it.)
-```
-
-<h2 style="font-family: 'JetBrains Mono', monospace;">
-  > Python
-</h2>
-
-```
-FastAPI
-Pandas
-NumPy
-Matplotlib
-SQLAlchemy
-Requests
-BeautifulSoup4
-Selenium
-```
-
-<h2 style="font-family: 'JetBrains Mono', monospace;">
-  > Web
-</h2>
-
-```
-Next.js
-Node.js
-Express.js
-HTML
-CSS/TailwindCSS
-REST APIs
-```
-
-<h2 style="font-family: 'JetBrains Mono', monospace;">
-  > Databases
-</h2>
-
-```txt
-PostgreSQL
-MySQL
-SQLite
-```
-
-<h2 style="font-family: 'JetBrains Mono', monospace;">
-  > Tools
-</h2>
-
-```
-Git
-GitHub
-Docker
-Linux/Windows troubleshooting
-Bash/Zsh/Shell
-```
-
-I WILL NOT STOP UNTIL I AM DEAD I AM A MACHINE
+cat << "EOF"
+> CS Student @ PUCPR (3rd Period)
+> Core Focus: Backend Architecture & Low-Level Mechanics
+> OS: Linux Custom Environment (Tuning kernel & terminal configs daily)
+> Grind Status: Infinite Loop. Constant iteration, optimization, and refactoring.
+> Hobbies: Heavy riffing on Bass & Guitar 🎸
+EOF
