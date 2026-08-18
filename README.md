@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="font-family: 'JetBrains Mono', monospace;">
-  20 years old • He/Him • 📍 Curitiba, Brazil
+  20 years old • He/Him • Curitiba, Brazil
 </p>
 
 <hr>
@@ -11,7 +11,8 @@
 <h2 style="font-family: 'JetBrains Mono', monospace;">
   > About Me
 </h2>
-```
+
+```java
 - 3rd period of CS - PUCPR
 - Fullstack Developer
 - Linux Enjoyer
@@ -19,6 +20,7 @@
 - I amm improving LITERALLY EVERY SINGLE DAY. I grind so fucking much my brain bleeds through my ears
 - Bass and guitar player
 ```
+
 <h2 style="font-family: 'JetBrains Mono', monospace;">
   > Languages
 </h2>
