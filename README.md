@@ -27,13 +27,13 @@ Curitiba, Brazil
 </div>
 
 01 // ABOUT
-
+```bash
 $ whoami
 Francisco Medeiros
 
 $ cat current_focus
-Python · Back-end Engineering · Data Analysis · REST APIs · Databases
-
+echo "Python · Back-end Engineering · Data Analysis · REST APIs · Databases"
+```
 Computer Science student focused on Python, back-end engineering and data analysis.
 
 I build REST APIs, back-end services, automation tools and data-analysis applications while
@@ -91,33 +91,11 @@ Python is the center of my current development stack.
 My back-end work focuses on designing applications with clear responsibilities between
 the API layer, business logic and persistence layer.
 
-Areas of focus
-
-RESTful API design and implementation
-
-Back-end application architecture
-
-Database modeling and persistence
-
-Object-relational mapping
-
-Request validation and serialization
-
-CRUD and service-oriented application logic
-
-Authentication and authorization concepts
-
-Automated testing
-
-Data processing and automation
-
-Maintainable project organization
-
 I am particularly interested in understanding why an application is structured in a
 certain way, rather than only making it work.
 
 04 // WEB_ENGINEERING
-
+<pre>
 ┌──────────────┐       HTTP / REST       ┌──────────────────┐
 │              │ ──────────────────────> │                  │
 │  Web Client  │                         │   Python API     │
@@ -128,7 +106,8 @@ certain way, rather than only making it work.
                                                  ▼
                                         ┌──────────────────┐
                                         │     Database     │
-                                        └──────────────────┘
+                                         └──────────────────┘
+</pre> 
 
 My web development experience extends across the application stack.
 
@@ -141,47 +120,15 @@ from the browser to the application layer and database.
 
 05 // DATA_ANALYSIS
 
-import pandas as pd
-import numpy as np
-
-df = pd.read_csv("dataset.csv")
-
-summary = (
-    df
-    .dropna()
-    .groupby("category")
-    .agg(["mean", "count"])
-)
-
-Alongside back-end development, data analysis is one of my primary areas of focus.
+<p>Alongside back-end development, data analysis is one of my primary areas of focus.
 
 I use Python to transform raw information into structured, interpretable data and to build
 software that consumes, processes and exposes data through APIs, dashboards and automation.
 
-Data work
-
-Data cleaning and preprocessing
-
-Exploratory data analysis
-
-Dataset transformation
-
-Aggregation and statistical operations
-
-Structured CSV and JSON processing
-
-Data extraction and normalization
-
-Automation of repetitive data workflows
-
-Integration between data pipelines and back-end services
-
-Visualization and dashboard-oriented data preparation
-
 My main ecosystem for this work includes Python, Pandas and NumPy, with an emphasis on
 using data analysis as part of real software projects rather than only isolated notebooks.
-
-RAMDashboard
+</p>
+## RAMDashboard
 
 RAMDashboard is one example of this intersection between data analysis and systems
 programming concepts.
@@ -193,7 +140,7 @@ computing context.
 Repository: chico202222222/ramdashboard
 
 06 // TESTING
-
+<pre>
 application
     │
     ├── browser automation
@@ -201,144 +148,39 @@ application
     ├── DOM inspection
     ├── interaction testing
     └── regression checks
+</pre>
 
 I have practical experience automating tests for web applications and validating application
 behavior through browser-driven workflows.
 
-My testing experience includes:
-
-End-to-end web testing
-
-Browser automation
-
-Automated form interaction
-
-DOM and HTML inspection
-
-Application flow validation
-
-Regression testing
-
-Web scraping and structured extraction when required
-
-Testing is part of the development process rather than an isolated final step.
-
 07 // SYSTEMS_&_LOW_LEVEL
-
-void *memory = malloc(size);
-
-if (memory != NULL) {
-    /* work with allocated memory */
-    free(memory);
-}
 
 Alongside higher-level development, I study C and basic C++ to develop a stronger
 understanding of how software behaves closer to the system.
-
-C / Systems fundamentals
-
-Pointers and memory addresses
-
-Manual memory allocation
-
-malloc, calloc, realloc and free
-
-Structs
-
-Dynamic data structures
-
-Linked structures
-
-Binary trees
-
-Recursion
-
-Memory lifetime
-
-Fundamental data structures and algorithms
 
 C is primarily a way for me to understand concepts hidden by higher-level languages,
 especially memory management and data representation.
 
 08 // LINUX
 
-francisco@dev:~$ uname -s
-Linux
-
-francisco@dev:~$ systemctl is-active development.service
-active
-
 Linux is my primary environment for development, experimentation and system
 troubleshooting.
 
 I regularly work with:
 
-Linux system administration fundamentals
-
-Bash and shell scripting
-
-Filesystems and permissions
-
-Processes and services
-
-Package management
-
-Development environment configuration
-
-System diagnostics
-
-Git workflows
-
-Docker environments
-
-Terminal and editor customization
+Linux system administration fundamentals;
+Bash and shell scripting;
+Filesystems and permissions;
+Processes and services;
+Package management;
+Development environment configuration;
+System diagnostics.
+(I DO NOT USE ARCH)
 
 Working daily on Linux has also strengthened my ability to diagnose technical problems
 outside application code.
 
-09 // TECHNICAL_PROFILE
-
-Area
-
-Focus
-
-Primary Language
-
-Python
-
-Primary Direction
-
-Back-end Engineering & Data Analysis
-
-Web
-
-REST APIs, modern front-end integration
-
-Data Analysis
-
-Pandas, NumPy, cleaning, transformation and exploratory analysis
-
-Databases
-
-SQL, relational modeling, ORM concepts
-
-Testing
-
-Automated browser and application testing
-
-Systems
-
-Linux, shell environments, troubleshooting
-
-Low-Level
-
-C, memory management, data structures
-
-Infrastructure
-
-Git, Docker, Linux development environments
-
-10 // CURRENT_DIRECTION
+09 // CURRENT_DIRECTION
 
 primary:
   - Python
@@ -368,7 +210,7 @@ I also intend to maintain a broad understanding of the systems underneath the so
 I build.
 
 <div align="center">
-
+<pre>
 [ PYTHON   ] ████████████████████  PRIMARY
 [ BACK-END ] ████████████████████  PRIMARY
 [ DATA     ] ████████████████████  PRIMARY
@@ -377,5 +219,5 @@ I build.
 [ SYSTEMS  ] ███████████░░░░░░░░░  LEARNING
 
 <sub><code>[francisco@dev ~]$ git commit -m "keep building"</code></sub>
-
+</pre>
 </div>
