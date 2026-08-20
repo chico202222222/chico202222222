@@ -38,11 +38,15 @@ Computer Science student focused on Python, back-end engineering and data analys
 
 I build REST APIs, back-end services, automation tools and data-analysis applications while
 continuously improving my understanding of software architecture, databases, testing and
-Linux systems.
+Linux systems. I also am improving my skills on understanding deeper and more obscure algorithms, while 
+still being close to real-world problems.
 
 My main technical direction combines server-side engineering with Python and data analysis. I also work with
 modern web technologies and study C/C++ to strengthen my understanding of memory,
 data structures and lower-level software behavior.
+
+My current most-interest area of Comp. Sci. is trying to model real-life events inside a computer, like 
+creating graphics for the growth of a Baobab tree, for example.
 
 02 // TECHNOLOGIES
 
@@ -69,9 +73,11 @@ Testing & Automation
 <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Testing Tools">
 
 </div>
+Althought I am a junior in all of it, my will to learn makes me go heights of insanity.
+
 
 <div align="center">
-  Althought I am a junior in all of it, my will to learn makes me go heights of insanity.
+  
 <pre>
 [ PYTHON   ] ████████████████████  PRIMARY BUT STILL LEARNING  ( T_T)
 [ BACK-END ] ████████████████████  PRIMARY 
