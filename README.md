@@ -78,15 +78,6 @@ Althought I am a junior in all of it, my will to learn makes me go heights of in
 
 <div align="center">
   
-<pre>
-[ PYTHON   ] ████████████████████  PRIMARY 
-  (BUT STILL LEARNING  ( T_T))
-[ BACK-END ] ████████████████████  PRIMARY 
-[ DATA     ] ████████████████████  PRIMARY
-[ WEB      ] ███████████████░░░░░  ACTIVE
-[ LINUX    ] █████████████████░░░  DAILY
-[ SYSTEMS  ] ███████████░░░░░░░░░  LEARNING
-
-<sub><code>[francisco@dev ~]$ git commit -m "keep building"</code></sub>
+<sub><code>[francisco@dev ~]$ git commit -m "keep building!!!!!"</code></sub>
 </pre>
 </div>
