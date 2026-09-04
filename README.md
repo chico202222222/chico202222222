@@ -32,7 +32,7 @@ $ whoami
 Francisco Medeiros
 
 $ cat current_focus
-echo "Python · Back-end Engineering · Data Analysis · REST APIs · Databases"
+echo "Python Scripting/Automation/Network tools · Back-end Engineering · Data Analysis · REST APIs · Databases"
 ```
 Computer Science student focused on Python, back-end engineering and data analysis.
 
